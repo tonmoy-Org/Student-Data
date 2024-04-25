@@ -1,0 +1,101 @@
+Age,Height,Weight,HairColor,EyeColor,FacialHair,BodyShape,VoicePitch,Occupation,Hobbies,ClothingStyle,Hand Size,Finger Length,Gender
+25,175,70,Brown,Brown,No,Athletic,Medium,Engineer,Reading,Casual,Medium,Long,Male
+30,160,55,Blonde,Blue,Yes,Slim,High,Teacher,Painting,Formal,Small,Short,Female
+35,180,80,Black,Green,No,Heavy,Low,Doctor,Sports,Sporty,Large,Medium,Male
+28,165,60,Brunette,Brown,No,Average,Medium,Artist,,Bohemian,Medium,Long,Male
+32,170,65,Brown,Hazel,No,Athletic,Medium,Lawyer,Cooking,Smart,Medium,Medium,Female
+27,168,63,Red,Blue,Yes,Slim,Medium,Graphic Designer,Photography,Urban,Medium,Oval,Male
+40,172,75,Brown,Brown,,Heavy,Low,Police Officer,Martial Arts,Tactical,Large,Long,Male
+33,178,77,,Green,No,Athletic,High,Nurse,Hiking,Sporty,Large,Medium,Female
+29,,58,Black,Brown,No,Slim,Medium,Software Developer,Gaming,Casual,Short,Heart,Male
+31,176,72,Brown,Hazel,No,,Medium,Marketing Executive,Dancing,Trendy,Long,Square,Female
+25,175,70,Brown,,No,Athletic,Medium,Engineer,Reading,Casual,Medium,Long,Male
+30,160,55,Blonde,Blue,Yes,Slim,High,Teacher,Painting,Formal,Small,Short,Female
+35,180,80,Black,Green,No,Heavy,Low,Doctor,Sports,Sporty,Large,Medium,Male
+28,165,60,Brunette,Brown,No,Average,Medium,Artist,Traveling,Bohemian,Medium,Long,Male
+,170,65,Brown,Hazel,No,Athletic,Medium,Lawyer,Cooking,Smart,Medium,Medium,Female
+27,168,63,,Blue,Yes,Slim,Medium,Graphic Designer,Photography,Urban,Medium,Oval,Male
+40,172,75,Brown,Brown,Yes,Heavy,Low,Police Officer,Martial Arts,Tactical,Large,Long,Male
+33,178,77,Blonde,Green,No,Athletic,High,Nurse,Hiking,Sporty,Large,Medium,Female
+29,163,58,Black,Brown,No,Slim,Medium,Software Developer,Gaming,Casual,Short,Heart,Male
+31,176,72,Brown,Hazel,No,Average,Medium,Marketing Executive,Dancing,Trendy,Long,Square,Female
+25,175,70,Brown,Brown,No,,Medium,Engineer,Reading,Casual,Medium,Long,Male
+30,160,55,Blonde,Blue,Yes,Slim,High,Teacher,Painting,Formal,Small,Short,Female
+35,180,80,Black,Green,No,Heavy,Low,Doctor,Sports,Sporty,Large,Medium,Male
+,165,60,Brunette,Brown,No,Average,Medium,Artist,Traveling,Bohemian,Medium,Long,Male
+32,170,65,Brown,Hazel,No,Athletic,Medium,Lawyer,Cooking,Smart,Medium,Medium,Female
+27,168,63,Red,Blue,Yes,Slim,Medium,Graphic Designer,Photography,Urban,Medium,Oval,Male
+40,,75,Brown,Brown,Yes,Heavy,Low,Police Officer,Martial Arts,,Large,Long,Male
+33,178,77,Blonde,Green,No,Athletic,High,Nurse,Hiking,Sporty,Large,Medium,Female
+29,163,58,Black,Brown,No,Slim,Medium,Software Developer,Gaming,Casual,Short,Heart,Male
+31,176,72,Brown,,No,Average,Medium,Marketing Executive,Dancing,Trendy,Long,Square,Female
+25,175,70,Brown,Brown,No,Athletic,Medium,Engineer,Reading,Casual,Medium,Long,Male
+30,160,55,,Blue,Yes,Slim,High,Teacher,Painting,Formal,Small,Short,Female
+35,180,80,Black,Green,No,Heavy,Low,Doctor,Sports,Sporty,Large,Medium,Male
+28,165,60,Brunette,Brown,No,Average,Medium,Artist,Traveling,Bohemian,Medium,Long,Male
+,,65,Brown,Hazel,No,Athletic,Medium,Lawyer,Cooking,Smart,Medium,Medium,Female
+27,168,63,Red,Blue,Yes,Slim,Medium,Graphic Designer,Photography,Urban,Medium,Oval,Male
+40,172,75,Brown,Brown,,Heavy,Low,Police Officer,Martial Arts,Tactical,Large,Long,Male
+33,178,77,Blonde,Green,No,Athletic,High,Nurse,Hiking,Sporty,Large,Medium,Female
+29,163,58,Black,,No,Slim,Medium,Software Developer,Gaming,Casual,Short,Heart,Male
+31,176,72,Brown,Hazel,,Average,Medium,Marketing Executive,Dancing,Trendy,Long,Square,Female
+25,175,70,Brown,Brown,No,Athletic,Medium,Engineer,Reading,Casual,Medium,Long,Male
+30,160,55,Blonde,Blue,Yes,Slim,High,Teacher,Painting,Formal,Small,Short,Female
+35,180,80,Black,Green,No,Heavy,Low,Doctor,Sports,Sporty,Large,Medium,Male
+28,165,60,Brunette,Brown,,Average,Medium,Artist,,Bohemian,Medium,Long,Male
+32,170,65,Brown,Hazel,No,,Medium,Lawyer,Cooking,Smart,Medium,Medium,Female
+27,168,63,Red,Blue,Yes,Slim,Medium,Graphic Designer,Photography,Urban,Medium,Oval,Male
+40,172,75,Brown,Brown,Yes,Heavy,Low,Police Officer,Martial Arts,Tactical,Large,Long,Male
+33,178,77,Blonde,Green,No,Athletic,High,Nurse,Hiking,Sporty,Large,Medium,Female
+29,163,58,Black,Brown,No,Slim,Medium,Software Developer,Gaming,Casual,Short,Heart,Male
+31,176,72,Brown,Hazel,No,Average,,Marketing Executive,Dancing,Trendy,Long,Square,Female
+25,175,70,Brown,Brown,No,Athletic,Medium,Engineer,Reading,Casual,Medium,Long,Male
+30,160,55,Blonde,Blue,Yes,Slim,High,Teacher,Painting,Formal,Small,Short,Female
+,180,80,,Green,No,Heavy,Low,Doctor,Sports,Sporty,Large,,Male
+28,165,60,Brunette,Brown,No,Average,Medium,Artist,Traveling,Bohemian,Medium,Long,Male
+32,,65,Brown,Hazel,No,Athletic,Medium,Lawyer,Cooking,Smart,Medium,Medium,Female
+27,168,63,Red,Blue,Yes,Slim,Medium,Graphic Designer,Photography,Urban,Medium,Oval,Male
+40,172,75,Brown,Brown,Yes,Heavy,Low,Police Officer,Martial Arts,Tactical,Large,Long,Male
+33,178,77,Blonde,Green,No,Athletic,High,Nurse,Hiking,Sporty,Large,Medium,Female
+29,163,58,Black,Brown,No,Slim,Medium,Software Developer,Gaming,Casual,Short,Heart,Male
+31,176,72,Brown,Hazel,No,Average,Medium,Marketing Executive,Dancing,Trendy,Long,Square,Female
+25,175,70,Brown,Brown,No,Athletic,Medium,Engineer,Reading,Casual,Medium,Long,Male
+30,160,55,Blonde,Blue,Yes,Slim,High,Teacher,Painting,Formal,Small,Short,Female
+35,180,80,Black,Green,No,Heavy,Low,Doctor,Sports,Sporty,Large,Medium,Male
+28,165,60,Brunette,Brown,No,Average,Medium,Artist,Traveling,Bohemian,Medium,Long,Male
+32,170,65,Brown,Hazel,No,Athletic,Medium,Lawyer,Cooking,Smart,Medium,Medium,Female
+27,168,63,Red,Blue,Yes,Slim,Medium,Graphic Designer,Photography,Urban,Medium,Oval,Male
+40,172,75,Brown,,Yes,Heavy,Low,Police Officer,Martial Arts,Tactical,Large,Long,Male
+33,178,77,Blonde,Green,No,,High,Nurse,Hiking,Sporty,Large,Medium,Female
+29,163,58,Black,Brown,No,Slim,Medium,Software Developer,Gaming,Casual,Short,Heart,Male
+31,176,72,Brown,Hazel,No,Average,Medium,Marketing Executive,Dancing,Trendy,Long,Square,Female
+25,175,70,Brown,Brown,No,Athletic,Medium,Engineer,Reading,Casual,Medium,Long,Male
+30,160,55,Blonde,Blue,Yes,Slim,High,Teacher,Painting,Formal,Small,Short,Female
+35,180,80,,Green,No,Heavy,Low,Doctor,Sports,Sporty,Large,Medium,Male
+28,165,60,Brunette,,No,Average,Medium,Artist,Traveling,Bohemian,Medium,Long,Male
+32,170,65,Brown,Hazel,No,Athletic,Medium,Lawyer,Cooking,Smart,Medium,Medium,Female
+27,168,63,Red,Blue,Yes,Slim,,Graphic Designer,Photography,Urban,Medium,Oval,Male
+40,172,75,Brown,Brown,Yes,Heavy,Low,Police Officer,Martial Arts,Tactical,Large,Long,Male
+33,178,77,Blonde,Green,No,Athletic,High,Nurse,Hiking,Sporty,,Medium,Female
+29,163,58,Black,Brown,No,Slim,Medium,Software Developer,Gaming,Casual,Short,Heart,Male
+31,176,72,Brown,Hazel,No,Average,Medium,Marketing Executive,Dancing,Trendy,Long,Square,Female
+25,175,70,Brown,Brown,No,Athletic,Medium,Engineer,Reading,Casual,Medium,Long,Male
+30,160,55,Blonde,Blue,Yes,Slim,High,Teacher,Painting,Formal,Small,Short,Female
+35,180,80,Black,Green,No,Heavy,Low,Doctor,Sports,Sporty,Large,Medium,Male
+28,165,60,Brunette,Brown,No,Average,Medium,Artist,Traveling,Bohemian,Medium,Long,Male
+32,170,65,Brown,Hazel,No,Athletic,Medium,Lawyer,Cooking,Smart,Medium,Medium,Female
+27,168,63,Red,Blue,Yes,Slim,Medium,Graphic Designer,Photography,Urban,Medium,Oval,Male
+40,172,75,Brown,Brown,Yes,Heavy,Low,Police Officer,Martial Arts,Tactical,Large,Long,Male
+33,178,77,Blonde,Green,No,Athletic,High,Nurse,Hiking,Sporty,Large,Medium,Female
+29,163,58,Black,Brown,No,Slim,Medium,Software Developer,Gaming,Casual,Short,Heart,Male
+31,176,72,Brown,Hazel,No,Average,Medium,Marketing Executive,Dancing,Trendy,Long,Square,Female
+25,175,70,Brown,Brown,No,,Medium,Engineer,Reading,Casual,Medium,Long,Male
+30,160,55,Blonde,Blue,Yes,Slim,High,Teacher,Painting,Formal,Small,Short,Female
+35,180,80,Black,Green,No,Heavy,Low,Doctor,Sports,Sporty,Large,Medium,Male
+28,165,60,Brunette,Brown,No,Average,Medium,Artist,Traveling,Bohemian,Medium,Long,Male
+32,170,65,Brown,Hazel,No,Athletic,Medium,Lawyer,Cooking,Smart,Medium,Medium,Female
+27,168,63,Red,Blue,Yes,Slim,Medium,Graphic Designer,Photography,Urban,Medium,Oval,Male
+40,172,75,Brown,Brown,Yes,Heavy,,Police Officer,Martial Arts,Tactical,Large,Long,Male
+33,178,77,Blonde,Green,No,Athletic,High,Nurse,Hiking,Sporty,Large,Medium,Female
+29,163,58,Black,Brown,No,Slim,Medium,Software Developer,Gaming,Casual,Short,Heart,Male
+31,176,72,Brown,Hazel,No,Average,Medium,Marketing Executive,Dancing,Trendy,Long,Square,Female
